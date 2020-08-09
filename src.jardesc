@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="BotLib/bin/botlib-src.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/BotLib/src.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="false">
+        <folder path="/BotLib/dep"/>
+        <javaElement handleIdentifier="=BotLib/src"/>
+    </selectedElements>
+</jardesc>

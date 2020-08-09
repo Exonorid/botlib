@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dep/JDA-4.2.0_168-withDependencies.jar" sourcepath="dep/JDA-4.2.0_168-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/BotLib/dep/JDA-4.2.0_168-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dep/classgraph-4.8.9.jar" sourcepath="dep/classgraph-4.8.9-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/BotLib/dep/classgraph-4.8.9-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dep/commons-lang3-3.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
